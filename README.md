@@ -7,7 +7,8 @@
 本專案採用矩陣分解技術來建立推薦系統模型，目的是提升電影推薦的準確度。整個開發流程使用 PyTorch 框架，包含了數據前處理、模型訓練、參數優化及模型效能測試等階段。
 
 # 架構圖
-![NeuCF](https://github.com/9270123a/MatrixFactorization/assets/157206678/7b0664be-8498-4208-9dfd-c371a18d8899)
+
+![NeuCF](https://github.com/9270123a/MatrixFactorization/assets/157206678/98b8dca6-1b7e-43cf-98e5-3e5896200912)
 
 
 ## 安裝步驟
