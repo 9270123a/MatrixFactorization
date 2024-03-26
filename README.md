@@ -8,7 +8,7 @@
 
 # 架構圖
 
-![NeuCF](https://github.com/9270123a/MatrixFactorization/assets/157206678/98b8dca6-1b7e-43cf-98e5-3e5896200912)
+![NeuCF (1)](https://github.com/9270123a/MatrixFactorization/assets/157206678/ba3f26c4-8005-44b2-b46e-b8a9b4ac6938)
 
 
 ## 安裝步驟
