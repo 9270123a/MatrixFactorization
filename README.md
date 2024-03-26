@@ -70,8 +70,16 @@ python MatrixFactorizationGridSearch_FingBestPar.py
 python TestMatrix.py
 ```
 
-## 貢獻準則
-我們歡迎並鼓勵社群貢獻本專案。若您有任何改善建議或想增加新功能，請透過 Issue 或 Pull Request 提出。
+## 如何貢獻
+我們歡迎所有形式的貢獻，包括但不限於新功能的提議、錯誤修正、文件更新。請發送Pull Request或創建Issue與我們交流。
+
+## 聯繫方式
+若有任何問題或建議，請透過以下方式聯繫我們：
+
+Email: 9270123s@gmail.com
+
+## 致謝
+感謝所有支持和參與本專案的人，特別是資料集的提供者以及開源社群的貢獻者。
 
 
 
