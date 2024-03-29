@@ -89,10 +89,10 @@ neucf_model.to(device)
 for user_id in range(num_users):
     for item_id in range(num_items):
         rating = interaction_matrix.iloc[user_id, item_id + 1]  # +1 to skip the 'userId' column
-        if rating > 0:
-            user_ids.append(user_id)
-            item_ids.append(item_id)
-            ratings.append(rating)  # 此处rating都为1，表示已评分
+        # if rating > 0:
+        user_ids.append(user_id)
+        item_ids.append(item_id)
+        ratings.append(rating)  # 此处rating都为1，表示已评分
 
 # Convert lists to tensors
 user_ids_tensor = torch.tensor(user_ids, dtype=torch.long)
